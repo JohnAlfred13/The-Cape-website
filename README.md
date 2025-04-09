@@ -1,46 +1,61 @@
 # The Cape Ltd
 
-**Remote Staffing & Recruitment Agency**  
-Helping businesses build remote teams with top-tier global talent.
+**Global Staffing & Dropshipping Solutions**  
+Connecting businesses with top talent and high-quality products worldwide.
 
 ---
 
 ## About Us
 
-The Cape Ltd connects businesses with highly-skilled remote professionals across various industries. We specialize in sourcing, vetting, and placing talent that fits your company's culture and goals.
+The Cape Ltd is a UK-based agency specializing in two core services:
+
+1. **Remote Staffing** – We help businesses hire skilled remote workers across industries like tech, customer service, logistics, and admin.
+
+2. **Global Dropshipping** – We partner with reliable suppliers to offer dropshipping services, helping entrepreneurs and businesses sell products without holding inventory.
+
+Our mission is to simplify hiring and global commerce for modern businesses.
 
 ---
 
-## What We Offer
+## Services We Offer
 
-- Remote staffing (tech & non-tech)
-- End-to-end recruitment solutions
-- Talent sourcing and onboarding support
-- Scalable hiring for startups and enterprises
+### Remote Staffing
+- Virtual assistants
+- Tech support and developers
+- Customer service reps
+- Recruiters and sales professionals
 
----
-
-## Website
-
-This repository contains the source code for The Cape Ltd’s website.  
-Check out our live site (coming soon).
-
----
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- GitHub Pages (hosting)
+### Dropshipping
+- Product sourcing and listing
+- Order fulfillment management
+- Global shipping
+- Store setup assistance (Shopify, WooCommerce, etc.)
 
 ---
 
-## Contact
+## Why Choose Us?
+
+- Worldwide talent pool and supplier network  
+- Affordable, flexible solutions  
+- Fast onboarding and streamlined logistics  
+- We work while you scale
+
+---
+
+## Tech Stack (Website)
+
+- HTML5 + CSS3  
+- GitHub Pages (Hosting)  
+- Future Integration: Shopify, APIs, Analytics
+
+---
+
+## Contact Us
 
 - Email: hello@thecapeltd.com  
-- LinkedIn: [Coming soon]  
-- Website: [Coming soon]
+- Instagram: [Coming soon]  
+- Website: [Coming soon]  
 
 ---
 
-> Empowering businesses. Enabling talent. Everywhere.
+> Build smarter. Sell faster. Grow globally — with The Cape Ltd.
